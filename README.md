@@ -1,3 +1,10 @@
+# Bureaupixel - Lupus Decoupled Nuxt 3 Demo
+
+A demo for a NUXT 3 site - extended with specific modules.
+
+
+
+
 # Lupus Decoupled Nuxt 3 Demo
 
 A demo setup for testing https://www.drupal.org/project/lupus_decoupled
